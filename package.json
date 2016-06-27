@@ -40,7 +40,7 @@
     },
     "dependencies": {
         "commander": "2.0.0",
-        "csscomb-core": "git://github.com/conceptualitis/core#fa6f4c4",
+        "csscomb-core": "git://github.com/conceptualitis/core#8e356a6",
         "gonzales-pe": "3.0.0-28",
         "vow": "0.4.4"
     },
